@@ -1,0 +1,12 @@
+# Ignore Python cache and runtime files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data files that are not part of the core repository
+# ratings_small.csv
+
+# Ignore local environment variables and sensitive files
+.env
